@@ -1,0 +1,5 @@
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugNine2\DebugNine2\bin\Debug\DebugNine2.exe.config
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugNine2\DebugNine2\bin\Debug\DebugNine2.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugNine2\DebugNine2\bin\Debug\DebugNine2.pdb
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugNine2\DebugNine2\obj\Debug\DebugNine2.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugNine2\DebugNine2\obj\Debug\DebugNine2.pdb

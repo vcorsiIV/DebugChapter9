@@ -1,0 +1,6 @@
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugFour2\DebugFour2\bin\Debug\DebugFour2.exe.config
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugFour2\DebugFour2\bin\Debug\DebugFour2.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugFour2\DebugFour2\bin\Debug\DebugFour2.pdb
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugFour2\DebugFour2\obj\Debug\DebugFour2.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugFour2\DebugFour2\obj\Debug\DebugFour2.pdb
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugFour2\DebugFour2\obj\Debug\DebugFour2.csprojResolveAssemblyReference.cache

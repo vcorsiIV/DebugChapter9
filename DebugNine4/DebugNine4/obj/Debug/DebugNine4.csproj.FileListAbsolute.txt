@@ -1,0 +1,6 @@
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugNine4\DebugNine4\bin\Debug\DebugNine4.exe.config
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugNine4\DebugNine4\bin\Debug\DebugNine4.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugNine4\DebugNine4\bin\Debug\DebugNine4.pdb
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugNine4\DebugNine4\obj\Debug\DebugNine4.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugNine4\DebugNine4\obj\Debug\DebugNine4.pdb
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugNine4\DebugNine4\obj\Debug\DebugNine4.csprojResolveAssemblyReference.cache
